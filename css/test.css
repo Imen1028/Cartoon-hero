@@ -1,0 +1,25 @@
+h1{
+    font-size: 50px; 
+    color: #2580CA;
+}
+
+h2{
+    color: #F7873B;
+}
+
+.big{
+    font-size: 60px;
+}
+
+.uppercase{
+    text-transform: uppercase;
+}
+
+.big.uppercase{
+    color: khaki;
+    text-transform: uppercase;
+}
+
+h1 span{
+    color: lawngreen;
+}
