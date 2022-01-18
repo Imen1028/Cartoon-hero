@@ -1,0 +1,20 @@
+body{
+    margin: 0;
+}
+header{
+    background-color: #F74F3B;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+header h1{
+    color: white;
+}
+
+header img{
+    border-radius: 150px;
+    width: 260px;
+    border: 10px solid aliceblue;
+}
+
